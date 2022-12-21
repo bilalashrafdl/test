@@ -1,0 +1,19 @@
+{
+    "name": "simplexi/greetr",
+    "description": "sample laravel package",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Greetr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bilal Ashraf",
+            "email": "bilal.ashraf@dynamologic.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
